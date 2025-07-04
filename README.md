@@ -32,5 +32,5 @@
 
 ---
 
-> “The expert in anything was once a beginner.”  
-> Let’s build, learn, and grow — one line of code at a time 💻🔥
+> **“The expert in anything was once a beginner.”**  
+> **Let’s build, learn, and grow — one line of code at a time. 💻🔥** 
