@@ -20,8 +20,8 @@
 | Project | Description | Repo |
 |--------|-------------|------|
 | 🛒 **Product Service** | Full CRUD backend with Spring Boot, DTOs, MySQL, validations, exception handling | [View Repo](https://github.com/MohammadAman-Github/ProductServiceSample) |
-| 📦 **Order Service** | Order placement & tracking API using REST | *Coming Soon* |
-| 🌦️ **Weather Service** | Weather API integration with cleaned JSON output | *Coming Soon* |
+| 📦 **Order Service** | Order placement & tracking API using REST | [View Repo](https://github.com/MohammadAman-Github/OrderServiceSample) |
+| 🌦️ **Weather Service** | Weather API integration with cleaned JSON output | [View Repo](https://github.com/MohammadAman-Github/WeatherServiceSample) |
 
 ---
 
