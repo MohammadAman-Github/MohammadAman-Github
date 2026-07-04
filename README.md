@@ -23,7 +23,7 @@ Focused, consistent, and committed to writing clean, scalable code while continu
 |  **Product Service** | Full CRUD backend with Spring Boot, DTOs, MySQL, validations, exception handling | [View Repo](https://github.com/MohammadAman-Github/ProductServiceSample) |
 |  **Order Service** | Order placement & tracking API using REST | [View Repo](https://github.com/MohammadAman-Github/OrderServiceSample) |
 |  **Weather Service** | Weather API integration with cleaned JSON output | [View Repo](https://github.com/MohammadAman-Github/WeatherServiceSample) |
-|  **Fake Store User APIs** | Implemented AddUser and UpdateUser using a generic `requestForEntity` method; consumes protected REST APIs with error handling |  Coming Soon |
+|  **Fake Store User APIs** | Implemented AddUser and UpdateUser using a generic `requestForEntity` method; consumes protected REST APIs with error handling |  In Progress |
 
 ---
 
